@@ -1,6 +1,6 @@
-import {Button} from "@/shared/ui";
-import {Input} from "@/shared/ui/input";
-import {Link} from "react-router-dom";
+import { Button } from '@/shared/ui';
+import { Input } from '@/shared/ui/input';
+import { Link } from 'react-router-dom';
 
 const SignInPage = () => {
   return (

@@ -1,5 +1,5 @@
-import { Link } from "react-router-dom";
-import { Theme } from "@features";
+import { Link } from 'react-router-dom';
+import { Theme } from '@features';
 
 export const Header = () => {
   return (
@@ -27,4 +27,4 @@ export const Header = () => {
       </nav>
     </header>
   );
-}
+};
